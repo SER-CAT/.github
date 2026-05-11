@@ -15,8 +15,8 @@ Our beamlines — **22‑ID‑D** (variable wavelength) and **22‑ID‑E** (fix
 
 This organization hosts **Webiste and internal tools** that support SER‑CAT beamline operations, including:
 
-- SERCAT WEBSITE: [https://sercat.franklinresearch.uga.edu]([https://sercat.franklinresearch.uga.edu])
-- SERCAT SCHEDULING WEBSITE: [https://www.sercat.org]([https://www.sercat.org])
+- SERCAT WEBSITE: [https://sercat.franklinresearch.uga.edu](https://sercat.franklinresearch.uga.edu)
+- SERCAT SCHEDULING WEBSITE: [https://www.sercat.org](https://www.sercat.org)
 
 
 > Repos may be private or public depending on their scope. If you're a SER‑CAT member looking for access, contact us below.
@@ -35,7 +35,7 @@ Georgia Institute of Technology · Emory University · University of Georgia · 
 
 | | |
 |---|---|
-| **Website** | [https://sercat.franklinresearch.uga.edu]([https://sercat.franklinresearch.uga.edu]) |
+| **Website** | [https://sercat.franklinresearch.uga.edu](https://sercat.franklinresearch.uga.edu) |
 | **Director** | Dr. John P. Rose — University of Georgia |
 | **Location** | Sector 22, Advanced Photon Source, Argonne National Laboratory, Lemont, IL |
 | **Email** | Reach us via the [Contact page](https://sercat.franklinresearch.uga.edu/directory/all) |
