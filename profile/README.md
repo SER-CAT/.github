@@ -11,20 +11,13 @@ Our beamlines — **22‑ID‑D** (variable wavelength) and **22‑ID‑E** (fix
 
 ---
 
-## 🔬 Mission
-
-SER‑CAT's mission is to provide reliable, high‑quality synchrotron beamline access so that researchers across our member institutions can advance structural biology, drug design, and biomedical research. Over **95 %** of our users collect data remotely, powered by the automation and tooling we continuously develop and maintain.
-
----
-
 ## 🛠️ What You'll Find Here
 
-This organization hosts **internal utilities and automation tools** that support SER‑CAT beamline operations, including:
+This organization hosts **Webiste and internal tools** that support SER‑CAT beamline operations, including:
 
-- Beamline automation & robotics control scripts
-- Data processing and reduction pipelines
-- Scheduling and operational utilities
-- Infrastructure and deployment tooling
+- SERCAT WEBSITE: [https://sercat.franklinresearch.uga.edu]([https://sercat.franklinresearch.uga.edu])
+- SERCAT SCHEDULING WEBSITE: [https://www.sercat.org]([https://www.sercat.org])
+
 
 > Repos may be private or public depending on their scope. If you're a SER‑CAT member looking for access, contact us below.
 
@@ -42,10 +35,10 @@ Georgia Institute of Technology · Emory University · University of Georgia · 
 
 | | |
 |---|---|
-| **Website** | [https://www3.ser.aps.anl.gov](https://www3.ser.aps.anl.gov/) |
+| **Website** | [https://sercat.franklinresearch.uga.edu]([https://sercat.franklinresearch.uga.edu]) |
 | **Director** | Dr. John P. Rose — University of Georgia |
 | **Location** | Sector 22, Advanced Photon Source, Argonne National Laboratory, Lemont, IL |
-| **Email** | Reach us via the [Contact page](https://www3.ser.aps.anl.gov/contact-us) |
+| **Email** | Reach us via the [Contact page](https://sercat.franklinresearch.uga.edu/directory/all) |
 
 ---
 
