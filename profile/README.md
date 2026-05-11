@@ -7,7 +7,7 @@
 
 The **SouthEast Regional Collaborative Access Team (SER‑CAT)** operates X‑ray beamlines at **Sector 22** of the [Advanced Photon Source (APS)](https://www.aps.anl.gov/), Argonne National Laboratory. We provide macromolecular crystallography services to **23 member and associate‑user institutions** across the southeastern United States and beyond.
 
-Our beamlines — **22‑ID‑D** (variable wavelength) and **22‑ID‑E** (fixed wavelength) — support de novo SAD/MAD structure determination, high‑resolution structural analyses, micro‑crystal work, serial synchrotron crystallography, and fully automated remote data collection.
+Our beamlines — **22‑ID‑D** (variable wavelength).
 
 ---
 
