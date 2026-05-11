@@ -42,6 +42,3 @@ Georgia Institute of Technology · Emory University · University of Georgia · 
 
 ---
 
-<p align="center">
-  <sub>SER‑CAT is supported by its member institutions, equipment grants from the National Institutes of Health, and funding from the Georgia Research Alliance.</sub>
-</p>
